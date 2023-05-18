@@ -1,0 +1,184 @@
+.vector-icon {
+  position: absolute;
+  height: 15.82%;
+  width: 34.87%;
+  top: 0;
+  right: 0;
+  bottom: 84.18%;
+  left: 65.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.profile-main-child,
+.profile-main-inner,
+.profile-main-item {
+  position: absolute;
+  height: 2.95%;
+  width: 18.33%;
+  top: 25.21%;
+  right: 76.32%;
+  bottom: 71.84%;
+  left: 5.35%;
+  background-color: var(--color1);
+}
+.profile-main-inner,
+.profile-main-item {
+  width: 31.53%;
+  top: 10.69%;
+  right: 44.79%;
+  bottom: 86.36%;
+  left: 23.68%;
+}
+.profile-main-inner {
+  top: 10.74%;
+  right: 12.5%;
+  bottom: 86.31%;
+  left: 55.97%;
+  background-color: var(--ffffff);
+  box-shadow: 0 4px 26px rgba(0, 0, 0, 0.12);
+}
+.ellipse-icon,
+.image-2-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 15.82%;
+  width: 48.35%;
+  top: 0;
+  right: 51.65%;
+  bottom: 84.18%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-icon,
+.image-2-icon {
+  height: 5.42%;
+  width: 14.51%;
+  top: 0.82%;
+  right: 70.42%;
+  bottom: 93.76%;
+  left: 15.07%;
+  object-fit: cover;
+}
+.ellipse-icon {
+  height: 6.87%;
+  width: 9.86%;
+  top: 12.68%;
+  right: 81.11%;
+  bottom: 80.45%;
+  left: 9.03%;
+}
+.dashboard,
+.edit-profile,
+.profile,
+.snigdha-dash {
+  position: absolute;
+  height: 1.06%;
+  width: 16.04%;
+  line-height: 121%;
+  display: inline-block;
+}
+.snigdha-dash {
+  top: 21.04%;
+  left: 6.32%;
+  font-weight: 600;
+}
+.dashboard,
+.edit-profile,
+.profile {
+  font-weight: 500;
+}
+.dashboard {
+  top: 25.83%;
+  left: 6.32%;
+  color: var(--ffffff);
+}
+.edit-profile,
+.profile {
+  top: 29.22%;
+  left: 4.1%;
+  cursor: pointer;
+}
+.edit-profile {
+  top: 31.79%;
+  left: 5.76%;
+}
+.my-network {
+  top: 34.35%;
+  left: 6.18%;
+  cursor: pointer;
+}
+.logout,
+.my-network,
+.need-help {
+  position: absolute;
+  height: 1.06%;
+  width: 16.04%;
+  line-height: 121%;
+  font-weight: 500;
+  display: inline-block;
+}
+.need-help {
+  top: 36.91%;
+  left: 6.32%;
+  cursor: pointer;
+}
+.logout {
+  top: 39.48%;
+  left: 4.44%;
+}
+.line-div,
+.wireframe-13-child1 {
+  position: absolute;
+  box-sizing: border-box;
+  opacity: 0.7;
+}
+.line-div {
+  height: 0.05%;
+  width: 100.76%;
+  top: 10.72%;
+  right: -0.73%;
+  bottom: 89.24%;
+  left: -0.03%;
+  border-top: 1px solid var(--color);
+}
+.wireframe-13-child1 {
+  height: 70.2%;
+  width: 0.07%;
+  top: 10.67%;
+  right: 76.28%;
+  bottom: 19.13%;
+  left: 23.65%;
+  border-right: 1px solid var(--color);
+}
+.live-deals,
+.most-funded {
+  position: absolute;
+  height: 1.02%;
+  width: 19.24%;
+  line-height: 121%;
+  font-weight: 500;
+  display: inline-block;
+}
+.live-deals {
+  top: 11.47%;
+  left: 29.31%;
+  color: var(--ffffff);
+}
+.most-funded {
+  top: 11.51%;
+  left: 61.6%;
+}
+.profile-main {
+  position: relative;
+  background-color: var(--ffffff);
+  width: 100%;
+  height: 2067px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--medium-size);
+  color: var(--color);
+  font-family: var(--medium);
+}
